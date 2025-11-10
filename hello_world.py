@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 is this python?
 """
@@ -6,7 +5,4 @@ is this python?
 print("Hello world!")
 print("Hello from feature!")
 print("Hello from release!")
-=======
-print("Hello world!")
 print("Hello once again")
->>>>>>> upstream2/feature/add-logging
